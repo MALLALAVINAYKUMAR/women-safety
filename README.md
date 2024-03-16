@@ -17,24 +17,24 @@ Team number : VH137
 Developing a comprehensive women's safety system using smartphones' sensor capabilities to detect and respond to potential dangers faced by women outside their homes. Addressing issues such as kidnapping maneuvers and hazardous conditions through real-time monitoring and intervention. Utilizing sensors like accelerometers, GPS, magnetometers, microphones, and cameras to create a robust safety solution. Designing an intuitive mobile application interface for easy access and utilization of safety features by women. Ensuring privacy and security measures are integrated into the system to protect user data and maintain trust.
 
 ## About the project
-1.Personal Safety
-2.Location Tracking
-3.Navigation Safety
-4.Emergency Assistance
-5.Community Support
+- Personal Safety
+- Location Tracking
+- Navigation Safety
+- Emergency Assistance
+- Community Support
 
 ## Technical implemntaion 
-Operating System		:	Windows 10/11
-Technology Used			: 	Android 
-IDE				:	Eclipse 
-Database			:	MySql
+- Operating System		:	Windows 10/11
+- Technology Used			: 	Android 
+- IDE				:	Eclipse 
+- Database			:	MySql
 # ## Techstacks used 
 sql,java
 ## How to run locally
-Step 1:Login into the application
-Step 2:Give all the required permissions to access (GPS,CONTACTS)
-Step 3:Enter the numbers of your emergency contacts
-Step 4:Save the numbers
-Step 5:now close the app and shake your mobile 
-Step 6:The app will send your location to the emergency contacts and it call's for the first saved number    
+- Login into the application
+- Give all the required permissions to access (GPS,CONTACTS)
+- Enter the numbers of your emergency contacts
+- Save the numbers
+- now close the app and shake your mobile 
+- The app will send your location to the emergency contacts and it call's for the first saved number    
 
