@@ -45,5 +45,20 @@ sql,java
 - Enter the numbers of your emergency contacts
 - Save the numbers
 - now close the app and shake your mobile 
-- The app will send your location to the emergency contacts and it call's for the first saved number    
+- The app will send your location to the emergency contacts and it call's for the first saved number
+
+ # whats next plan
+- Conduct in-depth research on existing women's safety apps and systems to understand strengths, weaknesses, and user feedback.
+- Collaborate with experts in sensor technology, data analytics, and women's safety advocacy to design an innovative and effective safety solution.
+- Develop a prototype of the women's safety system integrating advanced sensor capabilities and user-friendly mobile application interfaces.
+- Conduct extensive testing and user trials to gather feedback, refine features, and improve overall system performance.
+- Partner with relevant organizations, law enforcement agencies, and community stakeholders to ensure widespread adoption and impact of the women's safety system in real-world scenarios.
+
+# declaration
+We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+
+
+
+
+  
 
