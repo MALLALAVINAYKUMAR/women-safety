@@ -11,12 +11,15 @@ Team number : VH137
 | M Vinay Kumar | 99210041997@klu.ac.in |
 | M Lakshmi Narayana Reddy | 99210041242@klu.ac.in |
 |T Venkatesh |99210041778@klu.ac.in|
-<div style="display: flex; flex-wrap: wrap;">
-  ![w11](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/44d44642-7e11-41ee-813c-fbfb04eee972)
-  ![w2](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/e573dcdb-9bec-4f28-90b3-965eaeca6555)
-  ![w4](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/2683f092-6b69-44a1-b5c7-021069db3c31)
-  ![w3](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/4cb6dd0b-0272-4de8-a923-bc9b04c5c2c3)
-</div>
+
+<img width="163" alt="Screenshot 2024-03-16 140143" src="https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/140aa2dd-1cc2-4dc8-98ed-dd64b799891a">
+
+
+
+<img width="141" alt="Screenshot 2024-03-16 142042" src="https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/3823d844-e206-4f07-a3c8-2a3c3a70d3bc">
+
+![w3](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/4cb6dd0b-0272-4de8-a923-bc9b04c5c2c3)
+
 ## Problem statement 
 Developing a comprehensive women's safety system using smartphones' sensor capabilities to detect and respond to potential dangers faced by women outside their homes. Addressing issues such as kidnapping maneuvers and hazardous conditions through real-time monitoring and intervention. Utilizing sensors like accelerometers, GPS, magnetometers, microphones, and cameras to create a robust safety solution. Designing an intuitive mobile application interface for easy access and utilization of safety features by women. Ensuring privacy and security measures are integrated into the system to protect user data and maintain trust.
 
