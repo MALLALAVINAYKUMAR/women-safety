@@ -54,7 +54,7 @@ sql,java
 - Conduct extensive testing and user trials to gather feedback, refine features, and improve overall system performance.
 - Partner with relevant organizations, law enforcement agencies, and community stakeholders to ensure widespread adoption and impact of the women's safety system in real-world scenarios.
 
-# declaration
+# Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
 
 
