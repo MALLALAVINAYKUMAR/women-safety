@@ -1,5 +1,6 @@
 # Women's Safety Andriod Application
-#  [`Demo video link `](http://www.google.com)
+#  [`Demo video link `]()
+https://drive.google.com/drive/folders/1N6zdxEVCHgEOIr-JWGQ0rCCFRKFf8CBu?usp=sharing
 # Description
 In the fast-paced society of today, we are focused on modern living. However, with this lifestyle, we are not always aware of all the dangerous conditions that are experienced while women goes out of house. Factors such as kidnapping maneuvers and hazardous conditions, which often contribute to dangerous condition to the women. In recent years, there has been tremendous growth in smartphones embedded with numerous sensors such as accelerometers, Global Positioning Systems (GPSs), magnetometers, multiple microphones, and even cameras. The scope of sensor networks has expanded into many application domains such as intelligent transportation systems that can provide users with new functionalities previously unheard conditions. Experimental mobile applications  in the past have included certain sensors to record data preceding test . After analysis, the women safety precautions which took in the past we propose a new system to implement the women safety using the smartphones.
 # Team Details
