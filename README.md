@@ -36,7 +36,7 @@ Developing a comprehensive women's safety system using smartphones' sensor capab
 - Technology Used			: 	Android 
 - IDE				:	Eclipse 
 - Database			:	MySql
-
+# FLOW CHART
 - ![FLOW CHART](https://github.com/MALLALAVINAYKUMAR/women-safety/assets/130592037/2068eac7-9d90-4a90-a09f-3ac7a7c0402c)
 # ## Techstacks used 
 sql,java
